@@ -21,7 +21,7 @@ To install and run this project on your local machine, follow these steps:
 1. Clone the GitHub repository:
 
 ```bash
-git clone https://github.com/Elvizier/automatic-happy-birthday-wisher.git
+https://github.com/Elvizier/birthdayWisher.git
 ```
 
 2.Install the required dependencies:
