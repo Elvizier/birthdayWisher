@@ -61,5 +61,5 @@ Email
 ![email](https://github.com/Elvizier/birthdayWisher/blob/master/screenshots/IMG_6F71A135D035-1.jpeg)
 
 ### <span style="color:orange">Credits</span>
-This project was created by Your Joseph Makinde. If you have any questions, feel free to reach out to me.
+This project was created by Joseph Makinde. If you have any questions, feel free to reach out to me.
 
